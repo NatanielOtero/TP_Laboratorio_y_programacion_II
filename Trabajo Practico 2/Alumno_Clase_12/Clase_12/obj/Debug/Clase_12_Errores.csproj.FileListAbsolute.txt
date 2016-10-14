@@ -1,0 +1,47 @@
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_1\Clase_12\bin\Debug\Clase_12.exe.config
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_1\Clase_12\bin\Debug\Clase_12.exe
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_1\Clase_12\bin\Debug\Clase_12.pdb
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_1\Clase_12\bin\Debug\Clase_12_Library.dll
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_1\Clase_12\bin\Debug\Clase_12_Library.pdb
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_1\Clase_12\obj\Debug\Clase_12_Errores.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_1\Clase_12\obj\Debug\Clase_12.exe
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_1\Clase_12\obj\Debug\Clase_12.pdb
+D:\Federico\VB .Net\Visual C#\utn\Clases\Final_Clase_12\Clase_12\bin\Debug\Clase_12.exe.config
+D:\Federico\VB .Net\Visual C#\utn\Clases\Final_Clase_12\Clase_12\obj\Debug\Clase_12.exe
+D:\Federico\VB .Net\Visual C#\utn\Clases\Final_Clase_12\Clase_12\obj\Debug\Clase_12.pdb
+D:\Federico\VB .Net\Visual C#\utn\Clases\Final_Clase_12\Clase_12\bin\Debug\Clase_12.exe
+D:\Federico\VB .Net\Visual C#\utn\Clases\Final_Clase_12\Clase_12\bin\Debug\Clase_12.pdb
+D:\Federico\VB .Net\Visual C#\utn\Clases\Final_Clase_12\Clase_12\bin\Debug\Clase_12_Library.dll
+D:\Federico\VB .Net\Visual C#\utn\Clases\Final_Clase_12\Clase_12\bin\Debug\Clase_12_Library.pdb
+D:\Federico\VB .Net\Visual C#\utn\Clases\Final_Clase_12\Clase_12\obj\Debug\Clase_12_Errores.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\Clases\Alumno_Clase_12\Clase_12\bin\Debug\Clase_12.exe.config
+D:\Federico\VB .Net\Visual C#\utn\Clases\Alumno_Clase_12\Clase_12\obj\Debug\Clase_12.exe
+D:\Federico\VB .Net\Visual C#\utn\Clases\Alumno_Clase_12\Clase_12\obj\Debug\Clase_12.pdb
+C:\Users\julian\Desktop\Alumno_Clase_12\Clase_12\bin\Debug\Clase_12.exe.config
+C:\Users\julian\Desktop\Alumno_Clase_12\Clase_12\obj\Debug\Clase_12.exe
+C:\Users\julian\Desktop\Alumno_Clase_12\Clase_12\obj\Debug\Clase_12.pdb
+C:\Users\julian\Desktop\Alumno_Clase_12\Clase_12\obj\Debug\Clase_12_Errores.csprojResolveAssemblyReference.cache
+H:\PROGRAMACION 2\Trabajo Practico 2\Alumno_Clase_12\Clase_12\bin\Debug\Clase_12.exe.config
+H:\PROGRAMACION 2\Trabajo Practico 2\Alumno_Clase_12\Clase_12\obj\Debug\Clase_12.exe
+H:\PROGRAMACION 2\Trabajo Practico 2\Alumno_Clase_12\Clase_12\bin\Debug\Clase_12.exe
+H:\PROGRAMACION 2\Trabajo Practico 2\Alumno_Clase_12\Clase_12\bin\Debug\Clase_12.pdb
+H:\PROGRAMACION 2\Trabajo Practico 2\Alumno_Clase_12\Clase_12\bin\Debug\Clase_12_Library.dll
+H:\PROGRAMACION 2\Trabajo Practico 2\Alumno_Clase_12\Clase_12\bin\Debug\Clase_12_Library.pdb
+H:\PROGRAMACION 2\Trabajo Practico 2\Alumno_Clase_12\Clase_12\obj\Debug\Clase_12_Errores.csprojResolveAssemblyReference.cache
+H:\PROGRAMACION 2\Trabajo Practico 2\Alumno_Clase_12\Clase_12\obj\Debug\Clase_12.pdb
+E:\Trabajo Practico 2\Alumno_Clase_12\Clase_12\bin\Debug\Clase_12.exe.config
+E:\Trabajo Practico 2\Alumno_Clase_12\Clase_12\obj\Debug\Clase_12.exe
+E:\Trabajo Practico 2\Alumno_Clase_12\Clase_12\obj\Debug\Clase_12.pdb
+E:\Trabajo Practico 2\Alumno_Clase_12\Clase_12\bin\Debug\Clase_12.exe
+E:\Trabajo Practico 2\Alumno_Clase_12\Clase_12\bin\Debug\Clase_12.pdb
+E:\Trabajo Practico 2\Alumno_Clase_12\Clase_12\bin\Debug\Clase_12_Library.dll
+E:\Trabajo Practico 2\Alumno_Clase_12\Clase_12\bin\Debug\Clase_12_Library.pdb
+E:\Trabajo Practico 2\Alumno_Clase_12\Clase_12\obj\Debug\Clase_12_Errores.csprojResolveAssemblyReference.cache
+I:\Trabajo Practico 2\Alumno_Clase_12\Clase_12\bin\Debug\Clase_12.exe.config
+I:\Trabajo Practico 2\Alumno_Clase_12\Clase_12\obj\Debug\Clase_12.exe
+I:\Trabajo Practico 2\Alumno_Clase_12\Clase_12\obj\Debug\Clase_12.pdb
+I:\Trabajo Practico 2\Alumno_Clase_12\Clase_12\bin\Debug\Clase_12.exe
+I:\Trabajo Practico 2\Alumno_Clase_12\Clase_12\bin\Debug\Clase_12.pdb
+I:\Trabajo Practico 2\Alumno_Clase_12\Clase_12\bin\Debug\Clase_12_Library.dll
+I:\Trabajo Practico 2\Alumno_Clase_12\Clase_12\bin\Debug\Clase_12_Library.pdb
+I:\Trabajo Practico 2\Alumno_Clase_12\Clase_12\obj\Debug\Clase_12_Errores.csprojResolveAssemblyReference.cache
