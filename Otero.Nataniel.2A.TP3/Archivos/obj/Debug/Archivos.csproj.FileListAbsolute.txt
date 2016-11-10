@@ -1,0 +1,26 @@
+C:\Users\Juan Martin\Desktop\Pollio.JuanMartin.2ºA.TP3\Archivos\bin\Debug\Archivos.exe
+C:\Users\Juan Martin\Desktop\Pollio.JuanMartin.2ºA.TP3\Archivos\bin\Debug\Archivos.pdb
+C:\Users\Juan Martin\Desktop\Pollio.JuanMartin.2ºA.TP3\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+C:\Users\Juan Martin\Desktop\Pollio.JuanMartin.2ºA.TP3\Archivos\obj\Debug\Archivos.exe
+C:\Users\Juan Martin\Desktop\Pollio.JuanMartin.2ºA.TP3\Archivos\obj\Debug\Archivos.pdb
+C:\Users\Usuario\Desktop\Otero.Nataniel.2A.TP3\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Otero.Nataniel.2A.TP3\Archivos\obj\Debug\Archivos.exe
+C:\Users\Usuario\Desktop\Otero.Nataniel.2A.TP3\Archivos\obj\Debug\Archivos.pdb
+C:\Users\Usuario\Desktop\Otero.Nataniel.2A.TP3\Archivos\bin\Debug\Archivos.exe
+C:\Users\Usuario\Desktop\Otero.Nataniel.2A.TP3\Archivos\bin\Debug\Archivos.pdb
+C:\Users\Usuario\Desktop\Otero.Nataniel.2A.TP3\Archivos\bin\Debug\Excepciones.exe
+C:\Users\Usuario\Desktop\Otero.Nataniel.2A.TP3\Archivos\bin\Debug\Excepciones.pdb
+F:\2 cuatrimestre\Otero.Nataniel.2A.TP3\Archivos\bin\Debug\Archivos.exe
+F:\2 cuatrimestre\Otero.Nataniel.2A.TP3\Archivos\bin\Debug\Archivos.pdb
+F:\2 cuatrimestre\Otero.Nataniel.2A.TP3\Archivos\bin\Debug\Excepciones.exe
+F:\2 cuatrimestre\Otero.Nataniel.2A.TP3\Archivos\bin\Debug\Excepciones.pdb
+F:\2 cuatrimestre\Otero.Nataniel.2A.TP3\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+F:\2 cuatrimestre\Otero.Nataniel.2A.TP3\Archivos\obj\Debug\Archivos.exe
+F:\2 cuatrimestre\Otero.Nataniel.2A.TP3\Archivos\obj\Debug\Archivos.pdb
+I:\2 cuatrimestre\Otero.Nataniel.2A.TP3\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+I:\2 cuatrimestre\Otero.Nataniel.2A.TP3\Archivos\obj\Debug\Archivos.exe
+I:\2 cuatrimestre\Otero.Nataniel.2A.TP3\Archivos\obj\Debug\Archivos.pdb
+I:\2 cuatrimestre\Otero.Nataniel.2A.TP3\Archivos\bin\Debug\Archivos.exe
+I:\2 cuatrimestre\Otero.Nataniel.2A.TP3\Archivos\bin\Debug\Archivos.pdb
+I:\2 cuatrimestre\Otero.Nataniel.2A.TP3\Archivos\bin\Debug\Excepciones.exe
+I:\2 cuatrimestre\Otero.Nataniel.2A.TP3\Archivos\bin\Debug\Excepciones.pdb

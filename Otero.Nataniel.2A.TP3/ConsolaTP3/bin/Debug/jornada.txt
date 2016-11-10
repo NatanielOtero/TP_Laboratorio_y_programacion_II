@@ -1,0 +1,35 @@
+--JORNADA--
+Instructor: Nombre: Roberto
+Apellido: Juarez
+DNI: 32234456
+Nacionalidad: Argentino
+
+ID: 2
+
+--Clases del dia--
+Pilates
+CrossFit
+
+
+Da la clase de: CrossFit
+Alumnos
+Nombre: Juan
+Apellido: Lopez
+DNI: 12234456
+Nacionalidad: Argentino
+
+ID: 1
+
+Toma clase de: CrossFit
+Estado de cuenta: MesPrueba
+
+Nombre: Carlos
+Apellido: Gonzalez
+DNI: 12236456
+Nacionalidad: Argentino
+
+ID: 5
+
+Toma clase de: CrossFit
+Estado de cuenta: AlDia
+

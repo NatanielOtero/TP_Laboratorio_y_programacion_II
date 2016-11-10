@@ -1,0 +1,25 @@
+C:\Users\Juan Martin\Desktop\Pollio.JuanMartin.2ºA.TP3\EntidadesAbstractas\bin\Debug\EntidadesAbstractas.exe
+C:\Users\Juan Martin\Desktop\Pollio.JuanMartin.2ºA.TP3\EntidadesAbstractas\bin\Debug\EntidadesAbstractas.pdb
+C:\Users\Juan Martin\Desktop\Pollio.JuanMartin.2ºA.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.exe
+C:\Users\Juan Martin\Desktop\Pollio.JuanMartin.2ºA.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.pdb
+C:\Users\Usuario\Desktop\Otero.Nataniel.2A.TP3\EntidadesAbstractas\bin\Debug\EntidadesAbstractas.exe
+C:\Users\Usuario\Desktop\Otero.Nataniel.2A.TP3\EntidadesAbstractas\bin\Debug\EntidadesAbstractas.pdb
+C:\Users\Usuario\Desktop\Otero.Nataniel.2A.TP3\EntidadesAbstractas\bin\Debug\Excepciones.exe
+C:\Users\Usuario\Desktop\Otero.Nataniel.2A.TP3\EntidadesAbstractas\bin\Debug\Excepciones.pdb
+C:\Users\Usuario\Desktop\Otero.Nataniel.2A.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Otero.Nataniel.2A.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.exe
+C:\Users\Usuario\Desktop\Otero.Nataniel.2A.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.pdb
+I:\2 cuatrimestre\Otero.Nataniel.2A.TP3\EntidadesAbstractas\bin\Debug\EntidadesAbstractas.exe
+I:\2 cuatrimestre\Otero.Nataniel.2A.TP3\EntidadesAbstractas\bin\Debug\EntidadesAbstractas.pdb
+I:\2 cuatrimestre\Otero.Nataniel.2A.TP3\EntidadesAbstractas\bin\Debug\Excepciones.exe
+I:\2 cuatrimestre\Otero.Nataniel.2A.TP3\EntidadesAbstractas\bin\Debug\Excepciones.pdb
+I:\2 cuatrimestre\Otero.Nataniel.2A.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.csprojResolveAssemblyReference.cache
+I:\2 cuatrimestre\Otero.Nataniel.2A.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.exe
+I:\2 cuatrimestre\Otero.Nataniel.2A.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.pdb
+E:\2 cuatrimestre\Otero.Nataniel.2A.TP3\EntidadesAbstractas\bin\Debug\EntidadesAbstractas.exe
+E:\2 cuatrimestre\Otero.Nataniel.2A.TP3\EntidadesAbstractas\bin\Debug\EntidadesAbstractas.pdb
+E:\2 cuatrimestre\Otero.Nataniel.2A.TP3\EntidadesAbstractas\bin\Debug\Excepciones.exe
+E:\2 cuatrimestre\Otero.Nataniel.2A.TP3\EntidadesAbstractas\bin\Debug\Excepciones.pdb
+E:\2 cuatrimestre\Otero.Nataniel.2A.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.csprojResolveAssemblyReference.cache
+E:\2 cuatrimestre\Otero.Nataniel.2A.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.exe
+E:\2 cuatrimestre\Otero.Nataniel.2A.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.pdb
