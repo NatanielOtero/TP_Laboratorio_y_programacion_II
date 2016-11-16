@@ -91,12 +91,9 @@ namespace EntidadesInstanciables
         {
             foreach (Alumno item in jornada._alumnos)
             {
-                if (jornada._alumnos.Contains(alumno))
-                {
+                if (item == alumno)
                     return true;
-                }
             }
-
             return false;
         }
         /// <summary>
