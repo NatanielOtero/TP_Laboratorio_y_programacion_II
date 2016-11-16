@@ -1,0 +1,88 @@
+Datos de la Jornada: 
+Instructor: Persona: 
+Juarez, Roberto
+Dni: 32234456, Argentino
+
+ID #2
+
+Clases del dia: 
+CrossFit
+Pilates
+
+
+Da la clase de: CrossFit
+Alumnos
+Persona: 
+Lopez, Juan
+Dni: 12234456, Argentino
+
+Persona: 
+Gonzalez, Carlos
+Dni: 12236456, Argentino
+
+Datos de la Jornada: 
+Instructor: Persona: 
+Juarez, Roberto
+Dni: 32234456, Argentino
+
+ID #2
+
+Clases del dia: 
+CrossFit
+CrossFit
+
+
+Da la clase de: CrossFit
+Alumnos
+Persona: 
+Lopez, Juan
+Dni: 12234456, Argentino
+
+Persona: 
+Gonzalez, Carlos
+Dni: 12236456, Argentino
+
+Datos de la Jornada: 
+Instructor: Persona: 
+Juarez, Roberto
+Dni: 32234456, Argentino
+
+ID #2
+
+Clases del dia: 
+Pilates
+CrossFit
+
+
+Da la clase de: CrossFit
+Alumnos
+Persona: 
+Lopez, Juan
+Dni: 12234456, Argentino
+
+Persona: 
+Gonzalez, Carlos
+Dni: 12236456, Argentino
+
+Datos de la Jornada: 
+Instructor: Persona: 
+Juarez, Roberto
+Dni: 32234456, Argentino
+
+ID #2
+
+Clases del dia: 
+CrossFit
+CrossFit
+
+
+Da la clase de: CrossFit
+Alumnos
+Persona: 
+Lopez, Juan
+Dni: 12234456, Argentino
+
+Persona: 
+Gonzalez, Carlos
+Dni: 12236456, Argentino
+

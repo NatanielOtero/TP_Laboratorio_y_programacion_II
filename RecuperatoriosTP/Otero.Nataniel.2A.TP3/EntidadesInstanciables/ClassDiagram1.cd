@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="EntidadesInstanciables.Alumno" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAQAAAAAAAgAAAgBAAAAAAAAAAAAAAAACAAiA=</HashCode>
+      <FileName>Alumno.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EntidadesInstanciables.Instructor">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAQEgAAAgAAAAAAAAAAAAAAAAAAAACE=</HashCode>
+      <FileName>Instructor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EntidadesInstanciables.Gimnasio">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="EntidadesInstanciables.Gimnasio.EClases" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Gimnasio.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEyAAAAAAACgAAEAAAIAEARAAAAiA=</HashCode>
+      <FileName>Gimnasio.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EntidadesInstanciables.Jornada">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAEQAAAAAgAAAAgAAAAAIAARAAEAjA=</HashCode>
+      <FileName>Jornada.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
