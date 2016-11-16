@@ -112,21 +112,23 @@ namespace EntidadesInstanciables
         /// <summary>
         /// sobrecarga de +
         /// </summary>
-        /// <param name="j">jornada a incrementar</param>
-        /// <param name="a">alumno a incluir en la jornada</param>
+        /// <param name="jor">jornada a incrementar</param>
+        /// <param name="alu">alumno a incluir en la jornada</param>
         /// <returns>una jordana con el alumno a agregado</returns>
-        public static Jornada operator +(Jornada j, Alumno a)
+        public static Jornada operator +(Jornada jor, Alumno alu)
         {
             int i;
-            for (i = 0; i < j._alumnos.Count; i++)
+            for (i = 0; i < jor._alumnos.Count; i++)
             {
-                if (j._alumnos[i] == a)
-                    return j;
+                //Si el alumno se encuentra en la jornada, devuelve la lista sin cambios.
+                if (jor._alumnos[i] == alu)
+                    return jor;
 
             }
-            if (i == j._alumnos.Count)
-                j._alumnos.Add(a);
-            return j;
+            if (i == jor._alumnos.Count)
+                //Si el alumo no esta, lo agrega y devuleve la lista de alumnos.
+                jor._alumnos.Add(alu);
+            return jor;
         }
 
         //Sobrecarga de Equals y GetHashCode para evitar el warning
